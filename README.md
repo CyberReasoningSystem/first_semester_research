@@ -1,8 +1,8 @@
-# ACSDocumentsTemplates ⬛
+# First Semester's Research 🧑‍🎓
 
 ## Description 🖼️
 
-**ACSDocumentsTemplates** is a template repository containing two LaTeX projects for both documents and presentations created in the Faculty of Automatic Control and Computers, University POLITEHNICA of Bucharest.
+This repository contains the documents produced by the research from the first semester.
 
 ## Folders Structure 📁
 
@@ -18,5 +18,5 @@ The folder structure is as follows:
 
 ## Contributors 🤝
 
-- The OCTOCAT ([@octocat](https://github.com/octocat))
-- GITHUB ([@github](https://github.com/github/))
+- Claudiu-Florentin GHENEA ([@Phineas09](https://github.com/Phineas09))
+- George-Andrei IOSIF ([@iosifache](https://github.com/iosifache))
